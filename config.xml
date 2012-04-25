@@ -4,20 +4,19 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>Beta Miller App</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		Mobile application to view Miller's blog post
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://www.millerhomes.co.uk"
+		email="christophe.goasduff@miller.co.uk">
+		Christophe Goasduff
 	</author>
 
 	<icon src="icon.png" gap:role="default" />
 
-	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 	<feature name="http://api.phonegap.com/1.0/network"/>
 
 	<preference name="orientation" value="portrait" />
